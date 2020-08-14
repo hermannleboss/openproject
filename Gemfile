@@ -284,7 +284,7 @@ end
 gem 'bootsnap', '~> 1.4.5', require: false
 
 # API gems
-gem 'grape', '~> 1.3.0'
+gem 'grape', '~> 1.4.0'
 
 gem 'reform', '~> 2.3.2'
 gem 'reform-rails', '~> 0.2.0'
