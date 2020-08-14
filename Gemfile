@@ -286,8 +286,8 @@ gem 'bootsnap', '~> 1.4.5', require: false
 # API gems
 gem 'grape', '~> 1.3.0'
 
-gem 'reform', '~> 2.2.0'
-gem 'reform-rails', '~> 0.1.7'
+gem 'reform', '~> 2.3.2'
+gem 'reform-rails', '~> 0.2.0'
 gem 'roar', '~> 1.1.0'
 
 platforms :mri, :mingw, :x64_mingw do
